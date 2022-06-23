@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body {
+    background-image: url(./assets/images/background-home.jpg);
+    background-size: cover;
+}
+
+.navigation {
+    padding-top: 15px;
+}
+
+.cyth-logo {
+    width: 65px;
+    height: 50px;
+}
+
+/* .content-section {
+    background-color: #EBB7A1;
+} */
+
+.content-text {
+    font-family: 'Sacramento';
+    padding-top: 60px;
+}
+
+/* .content-text h1 {
+    font-size: 90px;
+} */
+
+.content-text h3 {
+    font-size: 60px;
+}
+
+.content-text p {
+    font-size: 30px;
+}
+
+.content-button {
+    padding-top: 150px;
+}
