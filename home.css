@@ -3,8 +3,7 @@
 
 body {
     background-color: #f8f6fc;
-    /* background-image: url(./assets/images/background-home.jpg);
-    background-size: cover; */
+    /* background-image: url(./assets/images/background-home.jpg);*/
 }
 
 a h3{
@@ -21,18 +20,15 @@ a h3{
     height: 50px;
 }
 
-/* .content-section {
-    background-color: #EBB7A1;
-} */
+.content-section {
+    position: relative;
+    bottom: 200px;
+}
 
 .content-text {
     font-family: 'Covered By Your Grace';
     padding-top: 60px;
 }
-
-/* .content-text h1 {
-    font-size: 90px;
-} */
 
 .content-text h3 {
     font-size: 60px;
@@ -47,38 +43,13 @@ a h3{
     height: 250px;
 }
 
-.why-heading {
-    padding-bottom: 60px;
-}
-
-.why img {
-    width: 320px;
-    height: 220px;
-    border-radius: 40%;
-    object-fit: cover;
-}
-
-.why h1 {
-    font-family: 'Covered By Your Grace';
-}
-
-.why h3 {
-    font-family: 'Covered By Your Grace';
-    font-size: 50px;
-}
-
-.why p {
-    font-family: 'Covered By Your Grace';
-    font-size: 20px;
-}
-
 .mybox {
     position: relative;
     bottom: 100px;
     left: 117px;
-    height: 500px;
+    height: 400px;
     width: 77rem;
     background: blue;
-    clip-path: circle(65% at 75% 2%);
+    clip-path: circle(55% at 75% 2%);
     z-index: -1;
   }
