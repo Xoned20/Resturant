@@ -7,6 +7,10 @@ body {
     background-size: cover; */
 }
 
+.nav-link {
+    color: white;
+}
+
 a h3{
     text-decoration: none;
     color: black;
@@ -83,7 +87,7 @@ a h3{
     left: 117px;
     height: 400px;
     width: 77rem;
-    background: blue;
+    background: rgb(250, 57, 57);
     clip-path: circle(55% at 75% 2%);
     z-index: -1;
   }

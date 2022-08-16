@@ -83,7 +83,7 @@ a h3{
     left: 117px;
     height: 400px;
     width: 77rem;
-    background: blue;
+    background: rgb(79, 73, 163);
     clip-path: circle(55% at 75% 2%);
     z-index: -1;
   }
