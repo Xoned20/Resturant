@@ -2,9 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Sacramento&display=swap');
 
 body {
-    background-color: #f8f6fc;
-    /* background-image: url(./assets/images/background-home.jpg);
-    background-size: cover; */
+    background-color: #f5f5f5;
+    width: 100%;
+}
+
+.day {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 a h3{
@@ -21,9 +26,6 @@ a h3{
     height: 50px;
 }
 
-/* .content-section {
-    background-color: #EBB7A1;
-} */
 
 .content-section {
     position: relative;
@@ -40,42 +42,17 @@ a h3{
 } */
 
 .content-text h3 {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .content-text p {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .content-section img {
     width: 350px;
     height: 250px;
 }
-
-/* .why-heading {
-    padding-bottom: 60px;
-}
-
-.why img {
-    width: 320px;
-    height: 220px;
-    border-radius: 40%;
-    object-fit: cover;
-}
-
-.why h1 {
-    font-family: 'Covered By Your Grace';
-}
-
-.why h3 {
-    font-family: 'Covered By Your Grace';
-    font-size: 50px;
-}
-
-.why p {
-    font-family: 'Covered By Your Grace';
-    font-size: 20px;
-} */
 
 .mybox {
     position: relative;
